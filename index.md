@@ -62,7 +62,7 @@ input[type=submit], input[type=reset]{
 		<td>
 			<input type="date" id="birthday" name="birthday">
  
-		</td>>
+		</td>
 			
 		
 	</tr>
