@@ -104,10 +104,10 @@ input[type=submit], input[type=reset]{
 
 </td>
 </tr>
-<!__<tr> <td><form action="/action_page.php" method="get" id="form1">
+<tr> <td><form action="/action_page.php" method="get" id="form1">
       
 </form>
-__>
+
 <button type="submit" form="form1" value="Submit">Submit</button>
 </table>
 </body>
