@@ -13,7 +13,7 @@
  font-size: 34px;     
  font-style: normal; 
  font-weight: bold; 
- color: black;
+ color: blue;
  text-align: center; 
  text-decoration: underline
 }
@@ -62,7 +62,7 @@ input[type=submit], input[type=reset]{
 		<td>
 			<input type="date" id="birthday" name="birthday">
  
-		</td>
+		</td>>
 			
 		
 	</tr>
@@ -105,7 +105,7 @@ input[type=submit], input[type=reset]{
 </td>
 </tr>
 <tr> <td><form action="/action_page.php" method="get" id="form1">
-      
+
 </form>
 
 <button type="submit" form="form1" value="Submit">Submit</button>
