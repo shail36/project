@@ -110,4 +110,4 @@ input[type=submit], input[type=reset]{
 </form>
 
 <button type="submit" form="form1" value="Submit">Submit</button>
-</table>
+
