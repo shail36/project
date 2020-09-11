@@ -111,5 +111,3 @@ input[type=submit], input[type=reset]{
 
 <button type="submit" form="form1" value="Submit">Submit</button>
 </table>
-</body>
-</html>
