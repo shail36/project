@@ -28,7 +28,7 @@ table{
  border-collapse: collapse; 
  border: 2px solid #000000;
  border-style: line;
- opacity: 2.5;
+ opacity:0.1;
   
 }
 table.inner{                                                                            
