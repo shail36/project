@@ -1,3 +1,4 @@
+
 <html>
 <head>
 	<title> student regstration form </title>
@@ -62,7 +63,7 @@ input[type=submit], input[type=reset]{
 		<td>
 			<input type="date" id="birthday" name="birthday">
  
-		</td>
+		</td>>
 			
 		
 	</tr>
@@ -102,10 +103,11 @@ input[type=submit], input[type=reset]{
 <td>Entermediate CGPA</td>
 	<td><input type="number" id="num" name="name"></td>
 
+</td>
 </tr>
 <tr> <td><form action="/action_page.php" method="get" id="form1">
 
-</form></td></tr>
+</form>
 
 <button type="submit" form="form1" value="Submit">Submit</button>
 </table>
