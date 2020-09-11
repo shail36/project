@@ -102,11 +102,10 @@ input[type=submit], input[type=reset]{
 <td>Entermediate CGPA</td>
 	<td><input type="number" id="num" name="name"></td>
 
-</td>
 </tr>
 <tr> <td><form action="/action_page.php" method="get" id="form1">
 
-</form>
+</form></td></tr>
 
 <button type="submit" form="form1" value="Submit">Submit</button>
 </table>
